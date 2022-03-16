@@ -32,4 +32,4 @@ I'm a backend developer, tech entusiast and gamer by night, from Brazil.
 <img align="left" alt="DART" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" />
 <img align="left" alt="VS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="VSCODE" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
+<img align="left" alt="RIDER" width="32px" src="https://raw.githubusercontent.com/AngeloTadeucci/angelotadeucci/main/rider.svg" />
