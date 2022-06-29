@@ -1,6 +1,6 @@
 ## Hi there, I'm Ângelo! <img src="https://raw.githubusercontent.com/jadilson12/jadilson12/master/assets/hi.gif" width="16">
 
-I'm a backend developer, tech entusiast and gamer by night, from Brazil.
+I'm a fullstack developer, tech entusiast and gamer by night, from Brazil.
 
 ---
 
