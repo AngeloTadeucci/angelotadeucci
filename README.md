@@ -4,8 +4,9 @@ I'm a fullstack developer, tech entusiast and gamer by night, from Brazil.
 
 ---
 
-- 🔭 I’m currently contributing to an open source [MapleStory2 Emulator](<https://github.com/AlanMorel/MapleServer2>).
-- 🌱 I’m currently learning everything possible.
+- 💼 I’m currently working full time for [@slideworks](<https://github.com/slideworks>) as a full-stack web developer.
+- 🔭 On my free time I contribute to an open source [MapleStory2 Emulator](<https://github.com/AlanMorel/MapleServer2>).
+- 🌱 Currently learning everything possible. 💭
 
 ### Find me
 
