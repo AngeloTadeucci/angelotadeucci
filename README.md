@@ -11,7 +11,7 @@ I'm a fullstack developer, tech entusiast and gamer by night, from Brazil.
 ### Find me
 
 - **Mail:** angelo_tadeucci@hotmail.com.br
-- **Discord:** tDcc#0568
+- **Discord:** tDcc
 
 ### Stats, Languages and Tools
 
@@ -34,3 +34,5 @@ I'm a fullstack developer, tech entusiast and gamer by night, from Brazil.
 <img align="left" alt="VS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="VSCODE" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="RIDER" width="32px" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" />
+<img align="left" alt="BUN" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" />
+          
