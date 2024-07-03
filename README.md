@@ -4,9 +4,12 @@ I'm a fullstack developer, tech entusiast and gamer by night, from Brazil.
 
 ---
 
-- 💼 I’m currently working full time for [@slideworks](<https://github.com/slideworks>) as a full-stack web developer.
 - 🔭 On my free time I contribute to an open source [MapleStory2 Server Emulator](https://github.com/AngeloTadeucci/Maple2).
 - 🌱 Currently learning everything possible. 💭
+
+### Past experiences
+
+- Fullstack web developer for [@slideworks](<https://github.com/slideworks>) for 2 years.
 
 ### Find me
 
