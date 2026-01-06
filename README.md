@@ -24,15 +24,8 @@ Contributor and maintainer of a full server emulator, involving:
 - Game logic and data parsing
 - Performance and scalability improvements
 
-Repositorie:
+Repo:
 - [Maple2](https://github.com/AngeloTadeucci/Maple2)
-
----
-
-### Tooling & Parsers
-- Binary file parsers and repackers
-- Backend services supporting game data pipelines
-- Internal tools to inspect, transform, and validate complex data formats
 
 ---
 
