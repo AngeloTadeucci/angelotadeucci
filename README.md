@@ -1,41 +1,53 @@
-## Hi there, I'm Ângelo! <img src="https://raw.githubusercontent.com/jadilson12/jadilson12/master/assets/hi.gif" width="16">
+# Hi, I'm Ângelo Tadeucci <img src="https://raw.githubusercontent.com/jadilson12/jadilson12/master/assets/hi.gif" width="16">
 
-I'm a fullstack developer, tech entusiast and gamer by night, from Brazil.
+Senior Software Engineer focused on backend systems, distributed services, and reverse engineering of client-server architectures.
+
+I have strong experience with C#, .NET, TypeScript, and low-level protocol analysis, and I actively contribute to complex open-source projects involving game servers, binary formats, and tooling.
 
 ---
 
-- 🔭 On my free time I contribute to an open source [MapleStory2 Server Emulator](https://github.com/AngeloTadeucci/Maple2).
-- 🌱 Currently learning everything possible. 💭
+## What I work on
 
-### Past experiences
+- Backend development with **C# / .NET**
+- Distributed systems and service communication
+- Reverse engineering of proprietary protocols and file formats
+- Game server emulation and tooling
+- Technical leadership in open-source projects
 
-- Fullstack web developer for [@slideworks](<https://github.com/slideworks>) for 2 years.
+---
 
-### Find me
+## Open Source Highlights
 
-- **Mail:** angelo_tadeucci@hotmail.com.br
-- **Discord:** tDcc
+### MapleStory 2 Server Emulator
+Contributor and maintainer of a full server emulator, involving:
+- Networking and protocol handling
+- Game logic and data parsing
+- Performance and scalability improvements
 
-### Stats, Languages and Tools
+Repositorie:
+- [Maple2](https://github.com/AngeloTadeucci/Maple2)
 
-[![AngeloTadeucci's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelotadeucci&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-<img align="left" alt="CSHARP" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="NET" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
-<img align="left" alt="MYSQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-<img align="left" alt="POSTGRESQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-<img align="left" alt="GITHUB" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="GIT" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
-<img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-<img align="left" alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-<img align="left" alt="JS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="NODEJS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
-<img align="left" alt="PYTHON" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
-<img align="left" alt="LUA" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" />
-<img align="left" alt="FLUTTER" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img align="left" alt="DART" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" />
-<img align="left" alt="VS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<img align="left" alt="VSCODE" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="RIDER" width="32px" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" />
-<img align="left" alt="BUN" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" />
+### Tooling & Parsers
+- Binary file parsers and repackers
+- Backend services supporting game data pipelines
+- Internal tools to inspect, transform, and validate complex data formats
+
+---
+
+## Tech Stack
+
+- **Languages:** C#, TypeScript, JavaScript, Python, Lua
+- **Backend:** .NET, gRPC, REST APIs
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **Dev Tools:** Git, Docker
+- **Other:** Reverse engineering, binary parsing, protocol analysis
+
+---
+
+## Contact
+
+- **Email**: angelo_tadeucci@hotmail.com.br
+-** Discord**: tDcc
           
