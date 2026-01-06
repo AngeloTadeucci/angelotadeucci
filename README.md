@@ -49,5 +49,5 @@ Repositorie:
 ## Contact
 
 - **Email**: angelo_tadeucci@hotmail.com.br
--** Discord**: tDcc
+- **Discord**: tDcc
           
