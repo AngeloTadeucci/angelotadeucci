@@ -42,5 +42,4 @@ Repo:
 ## Contact
 
 - **Email**: angelo_tadeucci@hotmail.com.br
-- **Discord**: tDcc
           
