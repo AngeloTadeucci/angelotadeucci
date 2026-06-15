@@ -27,7 +27,7 @@ Contributor and maintainer of a full server emulator, involving:
 
 Repo: [Maple2](https://github.com/MS2Community/Maple2)
 
-### Ereklo Bounty Board
+### Streamer Bounty Board
 A full-stack, realtime stream companion built solo for a MapleStory event:
 - Three live surfaces from one reactive backend — a public bounty board, an operator control panel, and a transparent OBS stream widget — kept in sync in real time (an operator edits a goal → the site and on-stream overlay update with no reload)
 - A scene-rotating animated stream widget that reacts to live Twitch chat: emote bursts, chat votes, gifted-sub celebrations, and a chat state, with priority-based takeovers
