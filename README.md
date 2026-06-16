@@ -17,26 +17,49 @@ I have strong experience with C#, .NET, TypeScript, and low-level protocol analy
 
 ---
 
-## Selected Projects
+## Cool Projects
 
 ### MapleStory 2 Server Emulator
-Contributor and maintainer of a full server emulator, involving:
-- Networking and protocol handling
-- Game logic and data parsing
-- Performance and scalability improvements
+Lead contributor to a full, from-scratch emulator of a shut-down MMORPG:
+- **Distributed architecture** — separate Login, World (gRPC coordinator), multi-channel Game, and Web servers communicating over gRPC
+- **Client data pipeline** ingesting game files into MySQL via EF Core, powering items, maps, NPCs, and quests
+- **Live game systems** — NPC AI, navmesh pathfinding, Lua-scripted map triggers, combat, and player progression
+- Backed by automated tests, BenchmarkDotNet suites, and a session stress-testing tool
+
+**Stack:** C#, .NET 10, gRPC, Entity Framework Core, MySQL, Docker, DotRecast
 
 Repo: [Maple2](https://github.com/MS2Community/Maple2)
 
 ### Streamer Bounty Board
 A full-stack, realtime stream companion built solo for a MapleStory event:
-- Three live surfaces from one reactive backend — a public bounty board, an operator control panel, and a transparent OBS stream widget — kept in sync in real time (an operator edits a goal → the site and on-stream overlay update with no reload)
-- A scene-rotating animated stream widget that reacts to live Twitch chat: emote bursts, chat votes, gifted-sub celebrations, and a chat state, with priority-based takeovers
-- A separate Dockerized Twitch chat bot (Node / tmi.js) that relays operator messages and acts as a backup chat listener, talking to the backend over guarded HTTP
-- Realtime-first design: Convex reactive queries as the live contract; countdowns tick client-side from timestamps so a per-second clock never hits the database
+- Three surfaces from one reactive backend — public bounty board, operator control panel, and a transparent OBS overlay — kept in sync live with no reloads
+- An animated, scene-rotating stream widget driven by Twitch chat: emote bursts, votes, and gifted-sub celebrations with priority-based takeovers
+- A separate Dockerized Twitch chat bot (Node / tmi.js) relaying operator messages over guarded HTTP
+- Realtime-first: Convex reactive queries as the live contract; countdowns tick client-side so a per-second clock never hits the database
 
 **Stack:** Next.js (App Router), React, Tailwind v4, Convex, Convex Auth (Google), Twitch IRC, Docker
 
 Live: [ereklo.tadeucci.dev](https://ereklo.tadeucci.dev/)
+
+### MapleStory 2 Handbook
+A searchable database of MapleStory 2 items and NPCs, built and maintained solo:
+- Full-text search over items and NPCs with stats, drop locations, and other in-game metadata
+- In-browser 3D model viewer for game assets
+- Svelte front-end backed by a separate C# data pipeline ([backend repo](https://github.com/AngeloTadeucci/MapleStory2-Handbook-BackEnd)) that imports game files into MySQL
+
+**Stack:** SvelteKit, Node.js, MySQL, C# (data import)
+
+Live: [handbook.tadeucci.dev](https://handbook.tadeucci.dev) · Repo: [MapleStory2-Handbook](https://github.com/AngeloTadeucci/MapleStory2-Handbook)
+
+---
+
+## Other Projects
+
+| Project | Description | Links |
+|---|---|---|
+| **StarForce Simulator** | Interactive MapleStory enhancement-cost simulator | [Live](https://starforce.tadeucci.dev/) · [Repo](https://github.com/AngeloTadeucci/starforcing-test) |
+| **Maple2-PacketLib-TS** | TypeScript library + CLI to read and parse MS2 packet sniffs | [npm](https://www.npmjs.com/package/maple2-packetlib-ts) · [Repo](https://github.com/AngeloTadeucci/Maple2-PacketLib-TS) |
+| **PacketToSQL** | Generates SQL shop-seeding data from captured MS2 game packets | [Repo](https://github.com/AngeloTadeucci/PacketToSQL) |
 
 ---
 
